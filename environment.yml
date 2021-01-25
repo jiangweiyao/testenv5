@@ -26,12 +26,12 @@ dependencies:
   - libstdcxx-ng=9.3.0
   - minimap2=2.17
   - ncurses=6.2
-  - openssl=1.1.1i
+  - openssl=1.0.2p
   - pip=20.3.3
   - python=3.7.9
   - python_abi=3.7
   - readline=8.0
-  - samtools=1.7
+  - samtools=1.9
   - setuptools=49.6.0
   - sqlite=3.34.0
   - tk=8.6.10
